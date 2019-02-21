@@ -41,7 +41,7 @@ def print_movies(films)
   films.each do |film|
     puts film["title"]
   end
-binding.pry
+
 end
 
 
